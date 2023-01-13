@@ -1,0 +1,12 @@
+var first_name="Ranbir";
+console.log(first_name);
+var last_name="Kapoor";
+console.log(last_name);
+concat(first_name, last_name);
+console.log(concat);
+var a= 10;
+console.log(a);
+var b= 3;
+console.log(b);
+var add= a+b;
+console.log(add);
